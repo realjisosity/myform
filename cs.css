@@ -1,0 +1,177 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#Bodi{
+    background-color: rgb(66, 69, 64);
+    font-family: 'Chakra Petch', sans-serif;
+}
+.Header{
+    background-color: rgb(57, 57, 57);
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Sono', sans-serif;
+    font-size: 20px;
+}
+.Port{
+    color: azure;
+    text-decoration: none;
+    margin-left: 1000px;
+    margin-top: 40px;
+    margin-right: 100px;
+    position: relative;
+}
+.AboutMe{
+    color: azure;
+    text-decoration: none;
+    margin-right: auto;
+    margin-top: 40px;
+    position: relative;
+}
+.Toys_Shop{
+    color: azure;
+    text-decoration: none;
+    margin-right: auto;
+    margin-top: 40px;
+    position: relative;
+    margin-left: auto;
+}
+.toss_coin{
+    color: azure;
+    text-decoration: none;
+    margin-right: auto;
+    margin-top: 40px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icon{
+    border-radius: 40%;
+    width: 100px;
+}
+
+#FForm{
+    position: relative;
+    margin-left: 900px;
+    font-style: italic;
+    color: aliceblue;
+    margin-top: 20px;
+    padding-top: 5px;
+    text-shadow: 0px 3px black;
+}
+
+#Ffield{
+    background-color: rgb(205, 205, 205);
+    border-radius: 15px;
+    box-shadow: 4px 10px 0px black;
+}
+#HForm{
+    background-color: rgb(205, 205, 205);
+    margin-bottom: 14px;
+    border-radius: 3px;
+    font-weight: bolder;
+    width: 100px;
+    font-style: italic;
+}
+#Sform{
+    position: relative;
+    margin-left: 700px;
+    margin-right: 700px;
+    text-align: center;
+}
+#Flabel{
+    position: relative;
+    margin-top: 3px;
+    
+}
+.Inbox{
+    position: relative;
+    border-radius: 4px;
+    
+}
+#Rnin{
+    position: relative;
+    margin-top: 8px;
+}
+#Lnin{
+    position: relative;
+    margin-top: 8px;
+}
+.Em{
+    border-radius: 3px;
+}
+#Ps{
+    margin-top: 5px;
+}
+
+#img{
+    margin-left: 800px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border-radius: 10% 20%;
+    transform: translateX(-10px);
+    box-shadow: 4px 5px black;
+}
+#age{
+    margin-top: 5px;
+}
+#Em{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#moreform{
+    margin-top: 5px;
+    text-align: center;
+}
+#Comment{
+    margin-top: 20px;
+}
+#lastBut{
+    margin-top: 33px;
+    margin-left: 900px;
+    transform: translateX(-70px);
+}
+#Lfield{
+    background-color: rgb(205, 205, 205);
+    margin-top: 20px;
+    margin-left: 700px;
+    margin-right: 700px;
+    border-radius: 9px;
+    position: relative;
+    box-shadow: 4px 10px 0px black;
+    font-family: 'Noto Sans Thai', sans-serif;
+}
+#L1{
+    background-color: rgb(205, 205, 205);
+    border-radius: 3px;
+    font-weight: bolder;
+    width: 100px;
+    font-style: italic;
+}
+
+.Program{
+    margin-top: 15px;
+}
+.Ai{
+    margin-left: 14px;
+}
+#textA{
+    margin-bottom: 15px;
+    border-radius: 8px;
+}
+#But1{
+    margin-top: 25px;
+    width: 100px;
+    height: 40px;
+    border-radius: 7px;
+    background-color: rgb(50, 208, 50);
+    color: aliceblue;
+
+}
+.But2{
+    margin-left: 20px;
+}
